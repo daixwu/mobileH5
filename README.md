@@ -55,9 +55,8 @@
 
 ## study
 
-- [移动web资源整理](http://www.cnblogs.com/PeunZhang/category/455417.html) 白色橡树
 - [滑屏 H5 开发实践九问](https://isux.tencent.com/nine-question-of-swipe-html5-page.html) 腾讯ISUX
-- [HTML5终极备忘大全](http://www.zhangxinxu.com/wordpress/?p=1544)
+- [CSS Animation性能优化](http://www.w3cplus.com/animation/animation-performance.html)
 
 ## 基础知识
 
