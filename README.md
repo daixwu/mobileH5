@@ -77,7 +77,7 @@ meta标签，这些meta标签在开发webapp时起到非常重要的作用
 
 第四个meta标签表示：告诉设备忽略将页面中的数字识别为电话号码
 
-> 在设置了initial-scale=1 之后，我们终于可以以1:1 的比例进行页面设计了。 关于viewport，还有一个很重要的概念是：iphone 的safari 浏览器完全没有滚动条，而且不是简单的“隐藏滚动条”， 是根本没有这个功能。iphone 的safari 浏览器实际上从一开始就完整显示了这个网页，然后用viewport 查看其中的一部分。 当你用手指拖动时，其实拖的不是页面，而是viewport。浏览器行为的改变不止是滚动条，交互事件也跟普通桌面不一样。
+
 
 ## 适配类文章
 
@@ -244,7 +244,7 @@ function yaoAfter(){
 
 解决方案：使用 [Iscroll](http://cubiq.org/iscroll-5) ，如：
 
-```
+```html
 <div id="wrapper">
     <ul>
         <li></li>
@@ -294,6 +294,10 @@ if(ua>-1){
 ```html
 <video x-webkit-airplay="true" webkit-playsinline="true" preload="auto" autoplay src="http://"></video>
 ```
+
+[html5--移动端视频video的android兼容，去除播放控件、全屏等](https://www.jianshu.com/p/4118510f3205?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+
+[移动端实践 - video](https://www.jianshu.com/p/a6a1113a1597)
 
 ### JS判断设备
 
