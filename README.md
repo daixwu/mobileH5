@@ -35,6 +35,7 @@
 - [Effeckt.css](https://github.com/h5bp/Effeckt.css.git) 挺齐全的
 - [动画工具](http://isux.tencent.com/css3/index.html) 腾讯ISUX 在线css3动画工具
 - [parallax.js](https://github.com/wagerfield/parallax.git) 自适应智能设备方向的视差效果插件
+- [Velocity.js](http://www.mrfront.com/docs/velocity.js/index.html) 简单易用、高性能、功能丰富的轻量级JS动画库  [Velocity.js简明使用教程](https://github.com/daixwu/mobileH5/blob/master/articles/20180712/1.md)
 
 ## 加载动画
 
